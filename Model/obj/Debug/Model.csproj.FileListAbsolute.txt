@@ -1,0 +1,4 @@
+F:\web.net\Solution6\Model\bin\Debug\Model.dll
+F:\web.net\Solution6\Model\bin\Debug\Model.pdb
+F:\web.net\Solution6\Model\obj\Debug\Model.dll
+F:\web.net\Solution6\Model\obj\Debug\Model.pdb

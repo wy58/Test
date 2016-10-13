@@ -1,0 +1,7 @@
+F:\web.net\Solution6\DAL\bin\Debug\DAL.dll
+F:\web.net\Solution6\DAL\bin\Debug\DAL.pdb
+F:\web.net\Solution6\DAL\obj\Debug\DAL.dll
+F:\web.net\Solution6\DAL\obj\Debug\DAL.pdb
+F:\web.net\Solution6\DAL\bin\Debug\Model.dll
+F:\web.net\Solution6\DAL\bin\Debug\Model.pdb
+F:\web.net\Solution6\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+F:\web.net\Solution6\BLL\bin\Debug\BLL.dll
+F:\web.net\Solution6\BLL\bin\Debug\BLL.pdb
+F:\web.net\Solution6\BLL\bin\Debug\DAL.dll
+F:\web.net\Solution6\BLL\bin\Debug\DAL.pdb
+F:\web.net\Solution6\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\web.net\Solution6\BLL\obj\Debug\BLL.dll
+F:\web.net\Solution6\BLL\obj\Debug\BLL.pdb
+F:\web.net\Solution6\BLL\bin\Debug\Model.dll
+F:\web.net\Solution6\BLL\bin\Debug\Model.pdb
